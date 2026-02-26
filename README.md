@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,daiyUi,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,html,css,firebase" />
 </p>
