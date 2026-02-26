@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mohsin
 
 ### Frontend Developer
-______________________
+___
 
 ## 💫 About Me
 
@@ -12,5 +12,5 @@ Currently learning TypeScript and PostgreSQL to strengthen my full-stack develop
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,github,html,css,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,github,html,css,firebase" />
 </p>
