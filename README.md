@@ -24,3 +24,19 @@ Currently focused on strengthening my full-stack development skills and building
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
 </a>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmohsin-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
