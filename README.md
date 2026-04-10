@@ -10,10 +10,14 @@ I enjoy working with React and JavaScript to create clean and user-friendly inte
 
 Currently focused on strengthening my full-stack development skills and building scalable web applications.
 
+---
+
 ## 🚀 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,github,html,css,firebase" />
 </p>
+
+---
 
 ## 🌐 Connect with me:
 <p align="left">
@@ -24,6 +28,8 @@ Currently focused on strengthening my full-stack development skills and building
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
 </a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
