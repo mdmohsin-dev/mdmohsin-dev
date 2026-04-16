@@ -20,7 +20,7 @@ Currently focused on strengthening my full-stack development skills and building
 ---
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="left"  style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/mdmohsin-dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
 </a>
