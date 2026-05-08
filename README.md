@@ -14,7 +14,7 @@ Currently focused on strengthening my full-stack development skills and building
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,nodejs,express,mongodb" />
 </p>
 
 ---
