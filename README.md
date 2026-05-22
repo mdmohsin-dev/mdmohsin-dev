@@ -1,32 +1,18 @@
 ## Hi there 👋 I'm Mohsin
 
-### Frontend Developer
+### Full-Stack Developer
 ___
 
 ## 💫 About Me
 
-I'm a passionate Frontend Developer focused on building modern and responsive web applications.  
-I enjoy working with React and JavaScript to create clean and user-friendly interfaces.  
-
-Currently focused on strengthening my full-stack development skills and building scalable web applications.
+I'm a passionate Full-Stack Developer focused on building modern, responsive, and scalable web applications. 
+I love solving real-world problems through code and continuously improving my development skills by learning new technologies and building practical projects.
 
 ---
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,nodejs,express,mongodb" />
-</p>
-
----
-
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mdmohsin-dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
-</a>
-<a href="mailto:mdmohosin.web@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,prisma" />
 </p>
 
 ---
@@ -39,7 +25,7 @@ Currently focused on strengthening my full-stack development skills and building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin-dev&layout=compact&theme=tokyonight" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmohsin-dev&theme=dark" height="163em" />
 </p>
 
 ---
