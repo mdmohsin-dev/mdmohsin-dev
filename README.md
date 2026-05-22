@@ -10,6 +10,9 @@ I'm a passionate Full-Stack Developer focused on building modern, responsive, an
 
 I love solving real-world problems through code and continuously improving my development skills by learning new technologies and building practical projects.
 
+
+As a developer, I enjoy solving real-world problems, building practical projects, and challenging myself with new ideas and technologies. I believe consistent learning and hands-on experience are the key parts of becoming a better software developer. My current focus is on strengthening my backend development knowledge, scalable application architecture, and advanced full-stack development skills while building impactful and production-ready applications.
+
 ---
 
 ## 🚀 Tech Stack:
@@ -29,5 +32,3 @@ I love solving real-world problems through code and continuously improving my de
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmohsin-dev&theme=dark" height="163em" />
 </p>
-
----
