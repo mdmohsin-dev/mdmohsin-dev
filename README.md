@@ -32,3 +32,9 @@ As a developer, I enjoy solving real-world problems, building practical projects
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmohsin-dev&theme=dark" height="163em" />
 </p>
+
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mdmohsin-dev&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true"
+  width="100%"
+/>
