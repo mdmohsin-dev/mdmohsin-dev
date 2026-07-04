@@ -24,16 +24,16 @@ As a developer, I enjoy solving real-world problems, building practical projects
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin-dev&theme=tokyonight"
-    height="170"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmohsin-dev&theme=dark"
-    height="170"
-  />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin-dev&theme=tokyonight" />
+    </td>
+    <td align="right">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmohsin-dev&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
