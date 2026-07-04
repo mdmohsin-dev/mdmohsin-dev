@@ -35,7 +35,6 @@ As a developer, I enjoy solving real-world problems, building practical projects
   </tr>
 </table>
 
----
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mdmohsin-dev&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true"
