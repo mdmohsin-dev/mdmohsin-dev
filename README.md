@@ -40,7 +40,3 @@ As a developer, I enjoy solving real-world problems, building practical projects
   src="https://github-readme-activity-graph.vercel.app/graph?username=mdmohsin-dev&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true"
   width="100%"
 />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdmohsin-dev&style=plastic&color=blue"/>
-</p>
